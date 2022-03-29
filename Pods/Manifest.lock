@@ -1,0 +1,16 @@
+PODS:
+  - Player (0.13.3)
+
+DEPENDENCIES:
+  - Player (~> 0.13.2)
+
+SPEC REPOS:
+  trunk:
+    - Player
+
+SPEC CHECKSUMS:
+  Player: e1889a481f14b3bc4065b62bed304c3de3b47dfe
+
+PODFILE CHECKSUM: 22c030c0f32e21fbae4dee92afa877c27b803931
+
+COCOAPODS: 1.11.2
